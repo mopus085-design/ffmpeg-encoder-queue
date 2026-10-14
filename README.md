@@ -20,7 +20,8 @@
 
 ## Установка
 
-Установщик Windows: раздел [Releases](../../releases).
+- **Windows 0.5.5** — [релиз v0.5.5](https://github.com/mopus085-design/ffmpeg-encoder-queue/releases/tag/v0.5.5) (установщик + SHA-256)
+- **Android: FF Mobile 1.2.0** — [релиз android-v1.2.0](https://github.com/mopus085-design/ffmpeg-encoder-queue/releases/tag/android-v1.2.0) (arm64 и universal APK)
 
 <!-- ## Сборка из исходников
 ```
