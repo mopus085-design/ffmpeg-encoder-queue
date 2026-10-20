@@ -1,8 +1,8 @@
 # FFmpeg Encoder Queue
 
-![Version](https://img.shields.io/badge/version-0.5.7-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Version](https://img.shields.io/badge/version-0.5.9-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
-Настольное приложение Windows для **пакетной обработки видео и аудио** через FFmpeg. Стабильная версия — **0.5.7**. Мобильная версия для Android — **FF Mobile 1.2.0**.
+Настольное приложение Windows для **пакетной обработки видео и аудио** через FFmpeg. Стабильная версия — **0.5.9**. Мобильная версия для Android — **FF Mobile 1.2.0**.
 
 ## Возможности
 
@@ -20,7 +20,7 @@
 
 ## Установка
 
-- **Windows 0.5.7** — [релиз v0.5.7](https://github.com/mopus085-design/ffmpeg-encoder-queue/releases/tag/v0.5.7) (установщик + SHA-256)
+- **Windows 0.5.9** — [релиз v0.5.9](https://github.com/mopus085-design/ffmpeg-encoder-queue/releases/tag/v0.5.9) (установщик + SHA-256)
 - **Android: FF Mobile 1.2.0** — [релиз android-v1.2.0](https://github.com/mopus085-design/ffmpeg-encoder-queue/releases/tag/android-v1.2.0) (arm64 и universal APK)
 
 <!-- ## Сборка из исходников
